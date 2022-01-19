@@ -1,0 +1,5 @@
+/* Holds all of your styles for buttons, carousels, sliders, and similar page components (think widgets). 
+Typically contain a lot of component files — as the whole site/app should be mostly composed of small modules */ 
+@forward './buttons';
+@forward './carousel';
+@forward './slider';
